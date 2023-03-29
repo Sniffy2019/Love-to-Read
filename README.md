@@ -8,3 +8,7 @@ Design of web page, remade from the whiskey appreciation design from the code in
 Use of bootstrap is included on all html pages.
 
 Use of font awesome in included on all html pages.
+
+
+https://sniffy2019-lovetoread-bmk3ugeh31m.ws-eu92.gitpod.io/index.html
+Gitpod opening page.
