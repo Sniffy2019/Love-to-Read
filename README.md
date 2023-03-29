@@ -9,7 +9,7 @@ then using port 8000 will show the web page.
 Tests have been run for static only purposes on Replit and Gitpod.
 Using Html and CSS only.
 
-Design of web page, built from the whiskey appreciation design from the code institue learning course,  using the following:-
+Design of web page, built from the  code institue learning course,  using the following:-
 
 Sources:
 cdn.jsdeliver.net
@@ -25,6 +25,8 @@ Contributing to the flow of the page:-
 Checked via glitch for presentation,
 
 Main index.html and style.css checked via W3C
+
+lighthouse used to check mobile speed
 
 main source code taken and modified from the Code institute.
 
