@@ -1,7 +1,7 @@
 # Love-to-Read
 Displays web page for book lovers, that want to buy or subscribe to a book club, or just but the books they really want.
 
-https://8000-sniffy2019-lovetoread-xxdcbwb5ruz.ws-eu93.gitpod.io/index.html
+https://8000-sniffy2019-lovetoread-eq815ppme1a.ws-eu93.gitpod.io/index.html
 Gitpod opening page.
 Using Gitpod and terminal $ python3 -m http.server
 then using port 8000 will show the web page.
