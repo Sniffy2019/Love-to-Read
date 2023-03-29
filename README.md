@@ -17,7 +17,7 @@ use.fontawesome.com
 https://sniffy2019-lovetoread-bmk3ugeh31m.ws-eu92.gitpod.io/index.html
 Gitpod opening page.
 
-Checked via clitch for presentation,
+Checked via glitch for presentation,
 
 Main index.html and style.css checked via W3C
 
