@@ -25,8 +25,7 @@ body {
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
-  
-    color: black;
+  color: black;
 }
 
 .container-wrapper--gold {
@@ -34,7 +33,7 @@ body {
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
-    color: white;
+    
 }
 
 
@@ -213,23 +212,22 @@ body {
 
 /* Features */
 
-.feature {
-     background-image: repeating-conic-gradient( azure, sandybrown, whitesmoke);
-  opacity: 80%;
+.feature1 {
+    background-image: repeating-conic-gradient( azure, sandybrown, whitesmoke);
+    opacity: 60%;
     text-align: center;
-    margin: 0px;
     color: black
 }
 
-.feature1 {
-    background-image: repeating-conic-gradient( azure, sandybrown, whitesmoke);
-    opacity: 70%;
+.feature {
+    background-image: transparent;
     text-align: center;
     color: black;
     font: bolder ;
 }
 
-.feature2 {
+.feature2
+{
     background-image: transparent;
     text-align: center;
     color: ghostwhite;
