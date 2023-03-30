@@ -8,6 +8,8 @@ Gitpod opening page.
 Using Gitpod and terminal $ python3 -m http.server
 then using port 8000 will show the web page.
 
+Links to additional pages are in the assets folder.
+
 Tests have been run for static only purposes on Replit and Gitpod.
 Using Html and CSS only.
 
