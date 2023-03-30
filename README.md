@@ -37,4 +37,4 @@ Code Institute-initial-work Alex Parry
 Acknowledgments
 
 Code Institute
-Robert Mclaughlin (tutor of the course)
+
