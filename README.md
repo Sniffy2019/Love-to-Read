@@ -1,7 +1,16 @@
 # Love-to-Read
 <img width="717" alt="love-to-read" src="https://user-images.githubusercontent.com/122370573/228775719-c8313c41-1a25-4660-886a-41ce933424a2.png">
 
-Displays web page for book lovers, that want to buy or subscribe to a book club, or just but the books they really want.
+### Displays web page for book lovers, that want to buy or subscribe to a book club, or just but the books they really want.
+
+* Simple layout drafted form the code institute "BootstrappingYourNextBigIdea"
+* interactive static web page to select to buy or subscribe to books.
+* 1 main page and 3 linked pages to explain how the web site works. 
+* (index.html) (main Page).
+* Read-more.html explains the sites benefits.
+* about.html allows you to add details
+* see-here-for-details.html explains offers.
+
 
 
 
