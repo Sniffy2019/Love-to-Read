@@ -29,7 +29,9 @@ kit.fontawesome.com
 live.staticflickr.com
 use.fontawesome.com
 
-Contributing to the flow of the page:-
+### Contributing to the flow of the page:-
+
+https://cdn.jsdelivr.net/npm/bootstrap@4.1.3/dist/css/bootstrap.min.css
 
 Checked via glitch for presentation,
 
@@ -39,11 +41,11 @@ lighthouse used to check mobile speed
 
 main source code taken and modified from the Code institute.
 
-Authors
+### Authors
 
 Code Institute-initial-work Alex Parry
 
-Acknowledgments
+### Acknowledgments
 
 Code Institute
 
