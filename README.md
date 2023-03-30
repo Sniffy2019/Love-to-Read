@@ -1,7 +1,9 @@
 # Love-to-Read
+<img width="717" alt="love-to-read" src="https://user-images.githubusercontent.com/122370573/228775719-c8313c41-1a25-4660-886a-41ce933424a2.png">
+
 Displays web page for book lovers, that want to buy or subscribe to a book club, or just but the books they really want.
 
-https://sniffy2019-lovetoread-wuwqvcf1af3.ws-eu93.gitpod.io/index.html
+https://sniffy2019-lovetoread-xxxxxxxxx.ws-eu93.gitpod.io/index.html
 Gitpod opening page.
 Using Gitpod and terminal $ python3 -m http.server
 then using port 8000 will show the web page.
