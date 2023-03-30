@@ -30,13 +30,13 @@ Sources:
 
 BootstrappingYourNextBigIdea-BS4/02-CoreCSSAndTheGridSystem/02-core_css/index.html
 
-cdn.jsdeliver.net
-code.jquery.com
-fonts.googleapis.com
-fonts.gstatic.com
-kit.fontawesome.com
-live.staticflickr.com
-use.fontawesome.com
+*cdn.jsdeliver.net
+*code.jquery.com
+*fonts.googleapis.com
+*fonts.gstatic.com
+*kit.fontawesome.com
+*live.staticflickr.com
+*use.fontawesome.com
 
 ### Contributing to the flow of the page:-
 
