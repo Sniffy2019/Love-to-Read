@@ -3,7 +3,7 @@
 
 ### Displays web page for book lovers, that want to buy or subscribe to a book club, or just but the books they really want.
 
-* Simple layout drafted form the code institute "BootstrappingYourNextBigIdea"
+* Sample layout drafted form the code institute "BootstrappingYourNextBigIdea"
 * interactive static web page to select to buy or subscribe to books.
 * 1 main page and 3 linked pages to explain how the web site works. 
 * (index.html) (main Page).
