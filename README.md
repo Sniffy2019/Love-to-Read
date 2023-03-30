@@ -8,12 +8,12 @@ Gitpod opening page.
 Using Gitpod and terminal $ python3 -m http.server
 then using port 8000 will show the web page.
 
-Links to additional pages are in the assets folder.
-
+### Links to additional pages are in the assets folder.
+[A link to GitHub](https://github.com/Sniffy2019/Love-to-Read/edit/index.html/README.md)
 Tests have been run for static only purposes on Replit and Gitpod.
 Using Html and CSS only.
 
-Design of web page, built from the  code institue learning course,  using the following:-
+## Design of web page, built from the  code institue learning course,  using the following:-
 
 Sources:
 cdn.jsdeliver.net
