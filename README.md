@@ -3,13 +3,15 @@
 
 Displays web page for book lovers, that want to buy or subscribe to a book club, or just but the books they really want.
 
-https://sniffy2019-lovetoread-xxxxxxxxx.ws-eu93.gitpod.io/index.html
-Gitpod opening page.
-Using Gitpod and terminal $ python3 -m http.server
-then using port 8000 will show the web page.
+
+
 
 ### Links to additional pages are in the assets folder.
 [A link to GitHub] (https://github.com/Sniffy2019/Love-to-Read)
+
+Using Gitpod and terminal $ python3 -m http.server
+then using port 8000 will show the web page.
+
 Tests have been run for static only purposes on Replit and Gitpod.
 Using Html and CSS only.
 
