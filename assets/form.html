@@ -1,7 +1,8 @@
 <!DOCTYPE html>
+
 <html lang="en" xmlns="http://www.w3.org/1999/xhtml">
   <head>
-    <meta charset="utf-8">
+    <meta charset="utf-8" />
     <meta
       name="viewport"
       content="width=device-width, height=device-height initial-scale=1">
@@ -21,120 +22,149 @@
       rel="stylesheet">
     <link rel="stylesheet" href="love-to-read.css" type="text/css">
   </head>
+  
+<body  class="container-wrapper--black">
+    <nav>
+      <ul id="menu">
+        <li>
+          <a class="nav-link" href="about.html">about</a>
+        </li>
+        <li>
+          <a class="nav-link" href="read-more.html">Read More</a>
+        </li>
+        <li>
+          <a class="nav-link" href="index.html">Home</a>
+        </li>
+       
+      </ul>
+    </nav>
 
-  <body>
-    <section>
-      <nav>
-        <ul id="menu">
-          <li>
-            <a class="nav-link" href="about.html">about</a>
-          </li>
-          <li>
-            <a class="nav-link" href="read-more.html">Read More</a>
-          </li>
-          <li>
-            <a class="nav-link" href="index.html">Home</a>
-          </li>
-            <li>
-            <a class="nav-link" href="form.html">Survey</a>
-          </li>
-        </ul>
-      </nav>
-    </section>
-    <div class="container-fluid callout-container">
-      <!-- Callout -->
-      <div class="opaque-overlay">&nbsp;</div>
-      <div class="row">
-        <div class="col-12">
-          <section class="callout jumbotron text-center">
-            <h1 class="jumbotron-header">Start your subscription Today!</h1>
-            <hr class="block-divider block-divider--orange" />
-          </section>
-          <section class="features">
-            <div class="container features-container content-container">
-              <div class="row">
-                <div class="col-12 page-header">
-                  <hr
-                    class="block-divider block-divider--short block-divider--white"
-                  />
-                </div>
-              </div>
 
-              <div class="row">
-                <div class="col-12 col-md-6 col-lg-4">
-                  <div class="feature2">
-                    <h3>
-                      <i class="fas fa-sterling-sign d-none d-sm-block"></i> One
-                      year subscription
-                      <span class="badge badge-warning"
-                        >Rewarding Loyalty!</span
-                      >
-                    </h3>
-                    <p>
-                      For every annual subscription, you'll will receive a free
-                      book of your choice. (subject to availabilty and authors
-                      discretion).
-                    </p>
-                  
-                  </div>
-                </div>
-                <div class="col-12 col-md-6 col-lg-4">
-                  <div class="feature2">
-                    <h3>
-                      <i class="fa-solid fa-sterling-sign d-none d-sm-block"></i
-                      >Two Year subscription
-                    </h3>
-                    <p>
-                      Get more for your buck when you double the annual
-                      subscription.
-                    </p>
-                     <p>
-                  <button
-              class="btn btn-lg btn-sm btn--blue" 
-                     > Complete Survey for a chance to win big!</button>
-                </p>
-                  </div>
-                </div>
+  
 
-                <div class="col-12 col-md-6 col-lg-4">
-                  <div class="feature2">
-                    <h3>
-                      <i
-                        class="fa-solid fa-sterling-sign d-none d-sm-block"
-                      ></i>
-                      Three year subscription
-                    </h3>
 
-                    <p>Biggest Saver Ever! save ££££'s'</p>
-                     
-                  </div>
-                </div>
-              </div>
-            </div>
-          </section>
-        </div>
-      </div>
-    </div>
- 
-  <script
-    src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
-    integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo"
-    crossorigin="anonymous"
-  ></script>
-  <script
-    src="https://cdn.jsdelivr.net/npm/popper.js@1.14.3/dist/umd/popper.min.js"
-    integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49"
-    crossorigin="anonymous"
-  ></script>
-  <script
-    src="https://cdn.jsdelivr.net/npm/bootstrap@4.1.3/dist/js/bootstrap.min.js"
-    integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy"
-    crossorigin="anonymous"
-  ></script>
-  <script
-    src="https://kit.fontawesome.com/4d70eb2afb.js"
-    crossorigin="anonymous"
-  ></script>
-   </body>
+
+	<header>
+		<h1>Win a years supply of books from Love to Read</h1>
+		<p>Complete our survey for your chance to win!</p>
+	</header>
+	
+	<hr>
+	
+	<nav>
+		
+		<a href="form.html" aria-label="Fill in our survey for your chance to win a years subscription free. ">Win Free a years subscription</a>
+	</nav>
+	
+	<form action="https://formdump.codeinstitute.net" method="POST" >
+
+	<fieldset >
+		<legend>Your details</legend>
+
+		<div>
+			<label for="name-field">Name</label>
+			<input id="name-field" type="text" name="full_name" placeholder="Your name" required>
+		</div>
+		<div>
+			<label for="email-field">Email</label>
+			<input id="email-field" type="email" name="email" placeholder="Your email" required>
+		</div>
+
+		<label for="age">Age</label>
+		<select id="age" name="age" required>
+			<option value="under-20">Under 20</option>
+			<option value="20s">20-29</option>
+			<option value="30s">30-39</option>
+			<option value="40s">40-49</option>
+			<option value="50s">50-59</option>
+			<option value="60+">60+</option>
+		</select>
+
+	</fieldset>
+
+		
+		<fieldset>
+			<legend>Favourite genre</legend>
+			<div>
+				<label for="fav-Book">What is your favourite Genre of Book?</label>
+				<input id="fav-book" list="Books" name="fav-Genre" required>
+				<datalist id="Genre">
+					<option value="Science Fiction">
+					<option value="Suspense">
+					<option value="Action">
+					<option value="Historical">
+					<option value="Romance">
+				</datalist>
+			</div>
+
+			<p>How many books do you read a month?</p>
+
+			<input id="0-2books-radio" name="books-a-month" value="0-2books" type="radio" required>
+			<label for="0-2books-radio">0 to 2 books</label>
+
+			<input id="3-5books-radio" name="books-a-month" value="3-5books" type="radio" required>
+			<label for="3-5books-radio">3 to 5 books</label>
+
+			<input id="6-8books-radio" name="books-a-month" value="6-8books" type="radio" required>
+			<label for="6-8books-radio">6 to 8 books</label>
+
+			<input id="9plus-books-radio" name="books-a-month" value="9plus-books" type="radio" required>
+			<label for="9plus-books-radio">9 or more books</label>
+
+			<p>How often do you visit Love to read?</p>
+
+      <input id="once-a-fortnight" name="visit-frequency" value="once-a-fortnight" type="radio" required>
+			<label for="once-a-fortnight">Once a fortnight</label>
+
+			<input id="once-a-month" name="visit-frequency" value="once-a-month" type="radio" required>
+			<label for="once-a-month">once-a-month</label>
+
+			<input id="once-every-three-months" name="visit-frequency" value="once-every-three-months" type="radio" required>
+			<label for="once-every-three-months">once-every-three-months</label>
+
+
+			<input id="not-often" name="visit-frequency" value="not-often" type="radio" required>
+			<label for="not-often">Not often</label>
+
+			<p>Which of these Genres do you enjoy?</p>
+			<div>
+				<input type="checkbox" id="Science Fiction-checkbox" name="Science Fiction">
+				<label for="Science Fiction-checkbox">Science Fiction</label>
+			</div>
+			<div>
+				<input type="checkbox" id="Suspense-checkbox" name="Suspense">
+				<label for="Suspense-checkbox">Suspense</label>
+			</div>
+			<div>
+				<input type="checkbox" id="Action-checkbox" name="Action">
+				<label for="Action-checkbox">Action</label>
+			</div>
+			<div>
+				<input type="checkbox" id="Historical-checkbox" name="Historical">
+				<label for="Historical-checkbox">Historical</label>
+			</div>
+			<div>
+				<input type="checkbox" id="Romance-checkbox" name="Romance">
+				<label for="Romance-checkbox">Romance</label>
+			</div>	
+		</fieldset>
+
+		<fieldset>
+			<legend>Feedback</legend>
+			<label for="feedback">How can we improve your experience with us?</label>
+			<br>
+			<textarea id="feedback" rows="4" cols="87" name="feedback"></textarea>
+		</fieldset>
+
+
+		<button type="submit">
+			<strong>Enter prize draw</strong>
+		</button>
+		<input type="reset" value="Reset Form">
+
+	</form>
+
+</body>
+
 </html>
 
