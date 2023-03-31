@@ -5,11 +5,12 @@
 
 * Sample layout drafted form the code institute "BootstrappingYourNextBigIdea"
 * interactive static web page to select to buy or subscribe to books.
-* 1 main page and 3 linked pages to explain how the web site works. 
+* 1 main page and 4 linked pages to explain how the web site works. 
 * (index.html) (main Page).
 * Read-more.html explains the sites benefits.
-* about.html allows you to add details
+* about.html allows you to add details.
 * see-here-for-details.html explains offers.
+* form.html allows you to complete a survey.
 
 
 
