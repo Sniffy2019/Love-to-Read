@@ -31,6 +31,18 @@ body {
   background-size: cover;
 }
 
+.container-wrapper--black {
+  height: 180vh;
+  background-image: url("https://live.staticflickr.com/65535/52777000095_a04671b74e.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+ -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+   position: relative;
+}
+
 .alert-container {
   background-color: #f05f40;
   color: white;
