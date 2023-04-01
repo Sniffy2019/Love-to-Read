@@ -29,20 +29,20 @@ body {
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
+  margin: 0;
+  padding: 0%;
 }
-
 .container-wrapper--black {
-  height: 240vh;
+  height: 200vh;
   background-image: url("https://live.staticflickr.com/65535/52777000095_a04671b74e.jpg");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
- -webkit-background-size: cover;
+  -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
-   position: relative;
+  position: relative;
 }
-
 .alert-container {
   background-color: #f05f40;
   color: white;
@@ -190,7 +190,7 @@ body {
 
 .site-wide-alert {
   color: #544600;
-  background-color: #f05f40;
+  background-color: darkgoldenrod;
   border-color: #eec802;
   padding: 5px 15px;
   margin-bottom: 0;
@@ -314,12 +314,14 @@ body {
 .join-button {
   color: darkslategray;
 }
+
 form {
-	margin-top: 150px;
+  margin-top: 100px;
   color: #fff;
   background-color: rgba(60, 60, 60, 0.6);
   max-width: 400px;
-  position: absolute;
-  left: 10%;
+  position: relative;
+  left: 5%;
   padding: 30px;
 }
+
