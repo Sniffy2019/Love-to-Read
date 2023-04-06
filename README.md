@@ -33,6 +33,10 @@ Lighthouse was used to test mobile response time.
 Sources:
 <img width="497" alt="wire frame web site" src="https://user-images.githubusercontent.com/122370573/230308332-797822d6-22ae-4713-b10c-12161ae19676.png">
 * wire frame design for front page using Balsamiq Wireframes.
+* Schematic depicitng the front page using the front tab bar for the selection page and drop down menu.
+* Main picture describing the site.
+* Readers reviews depicted with four circles and text.
+* Offers and subscription links to read more and picture at bottom of page.
 
 BootstrappingYourNextBigIdea-BS4/02-CoreCSSAndTheGridSystem/02-core_css/index.html
 
