@@ -50,7 +50,7 @@ https://cdn.jsdelivr.net/npm/bootstrap@4.1.3/dist/css/bootstrap.min.css
 
 Tests have been run for static only purposes on Replit and Gitpod.
 Using Html and CSS only.
-Glitch was used to neaten the code in Html and CSS.
+Glitch was used to format the code in Html and CSS.
 W3C was used to eliminate any glaring errors and conflicts of the web pages.
 Lighthouse was used to test mobile response time.
 
