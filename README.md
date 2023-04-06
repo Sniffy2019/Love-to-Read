@@ -6,11 +6,11 @@
 * Sample layout drafted form the code institute "BootstrappingYourNextBigIdea"
 * interactive static web page to select to buy or subscribe to books.
 * 1 main page and 4 linked pages to explain how the web site works. 
-* (index.html) (main Page).
-* Read-more.html explains the sites benefits.
-* about.html allows you to add details.
-* see-here-for-details.html explains offers.
-* form.html allows you to complete a survey.
+* (index.html) (main Page). Shows the offers and what you'll be getting if interested in subcribing or buying books.
+* Read-more.html explains the sites benefits. Linked from index.html page, describes the benefits from suscriibng to Love-to Read.
+* about.html allows you to add your details in a email/name contact form linked from the about section from all pages.
+* see-here-for-details.html explains offers and benefits of different subscriptions, linked to via index.html or main web page.
+* form.html allows you to complete a survey, depicitng how often you read and favourite Genre etc. linked via survey section on every page.
 
 
 
@@ -24,6 +24,9 @@ then using port 8000 will show the web page.
 
 Tests have been run for static only purposes on Replit and Gitpod.
 Using Html and CSS only.
+Glitch was used to neaten the code in Html and CSS.
+W3C was used to eliminate any glaring errors and conflicts of the web pages.
+Lighthouse was used to test mobile response time.
 
 ## Design of web page, built from the  code institue learning course,  using the following:-
 
