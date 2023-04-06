@@ -57,6 +57,8 @@ Checked via glitch for presentation,
 Main index.html and style.css checked via W3C
 
 lighthouse used to check mobile speed
+<img width="949" alt="lighthouse report" src="https://user-images.githubusercontent.com/122370573/230310514-8ef48342-b9fb-4cb4-a39c-e0b7019f64a6.png">
+
 
 main source code taken and modified from the Code institute.
 
