@@ -22,7 +22,7 @@ Scrolling down the page will show some readers reviews.
 Keep scrolling down the page and it lets the reader see the benefits of joining Love-to-read, and has a link to the read more html page.
 The Read more page describes the benefits of subscribing, prices and benefits for recommending other subcribers.
 The read more page also has the links to the main page, about, read more and the survey.
-Should the teacher choose the about page its another sign up page for the would be reader to sign up with their details.
+Should the reader choose the about page its another sign up page for the would be reader to sign up with their details.
 
 
 
