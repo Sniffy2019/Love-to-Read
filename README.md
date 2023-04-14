@@ -29,7 +29,9 @@ The Read more page describes the benefits of subscribing, prices and benefits fo
 The read more page also has the links to the main page, about, read more and the survey.
 Should the reader choose the about page its another sign up page for the would be reader to sign up with their details.
 
-The about.html page has a sign up page for more  details regarding what they would like to sign up for,and also has the social following section on the bottom of the page.
+The about.html page has a sign up page for more  details regarding what they would like to sign up for, and also has the social following section on the bottom of the page.
+
+There is a link to the survey page at the top of the page that allows the reader to choose various questions about them, and a chance to win a years worth of subscription free for a year.
 
 
 
