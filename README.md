@@ -16,13 +16,20 @@
 
 The "index.page" entices people who love to read to subscribe or buy books.
 The top of the page leads to the subscriptiopn deals and explains the benefits of long term subscrition. The top of the subscription page has drop down links back to other pages included.
+
 The second set of options below the first has the option to go to about.html link or choose a genre of book they may like.
+
 The main picture is the year to date filled with books and has a sign up page if the reader wishes to sign up for more details on buying or subscribing.
 Scrolling down the page will show some readers reviews.
+
 Keep scrolling down the page and it lets the reader see the benefits of joining Love-to-read, and has a link to the read more html page.
+
 The Read more page describes the benefits of subscribing, prices and benefits for recommending other subcribers.
+
 The read more page also has the links to the main page, about, read more and the survey.
 Should the reader choose the about page its another sign up page for the would be reader to sign up with their details.
+
+The about.html page has a sign up page for more secure details and also has the socila following section on the bottom of the page.
 
 
 
