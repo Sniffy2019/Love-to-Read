@@ -275,6 +275,8 @@ body {
 }
 
 .social-networks {
+  background-image: repeating-linear-gradient(azure, sandybrown, black);
+  margin: 0%;
   text-align: center;
 }
 
