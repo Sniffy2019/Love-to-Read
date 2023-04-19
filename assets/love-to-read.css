@@ -98,7 +98,7 @@ body {
 .navbar {
   margin-bottom: 0;
   width: 100%;
-background-image: repeating-linear-gradient(darkslategray, sandybrown, black);
+background-image: repeating-linear-gradient(darkslategray, sandybrown, #5C4033);
   border: 0;
 }
 
