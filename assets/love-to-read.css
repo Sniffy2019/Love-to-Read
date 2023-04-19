@@ -16,6 +16,8 @@ body {
   color: darkorchid;
 }
 
+
+
 .container-wrapper--green {
   background-image: url("https://live.staticflickr.com/65535/52776093757_408c5c8c1e_z.jpg");
   background-position: center;
@@ -38,6 +40,7 @@ body {
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
+  display: inherit;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -51,7 +54,7 @@ body {
 .callout-container {
   height: 100vh;
   background: url("https://live.staticflickr.com/65535/52776814784_f16634e31a.jpg")
-    no-repeat bottom right fixed;
+    no-repeat center;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -72,8 +75,9 @@ body {
 }
 
 .content-container {
-  padding-top: 75px;
-  padding-bottom: 75px;
+  position: relative;
+  padding-top: 0px;
+  padding-bottom: 30px;
 }
 
 /* Navbar */
@@ -218,18 +222,18 @@ body {
 
 /* Features */
 
-.feature1 {
-  background-image: repeating-conic-gradient(azure, sandybrown, whitesmoke);
-  opacity: 60%;
-  text-align: center;
-  color: black;
-}
-
 .feature {
   background-image: transparent;
   text-align: center;
   color: black;
   font: bolder;
+}
+
+.feature1 {
+  background-image: repeating-conic-gradient(azure, sandybrown, whitesmoke);
+  opacity: 60%;
+  text-align: center;
+  color: black;
 }
 
 .feature2 {
@@ -296,7 +300,8 @@ body {
   background: url("https://live.staticflickr.com/65535/52773899307_1dae9f05c1.jpg");
   background-size: cover;
   background-position: center;
-  height: 900px;
+  height: 100vh;
+  
 }
 
 .signup-form {
@@ -327,15 +332,4 @@ form {
   padding: 30px;
 }
 
-@media screen and (max-width: 992px) {
-  .column {
-    width: 100%;
-  }
-}
 
-
-@media screen and (max-width: 600px) {
-  .column {
-    width: 50%;
-  }
-}
