@@ -80,9 +80,9 @@ body {
   padding-bottom: 30px;
 }
 
-.content-container1 {
- padding-top: 50px;
-  padding-bottom: 30px;
+.content-container1 { 
+  padding-top: 100px;
+  padding-bottom: 70px;
 }
 
 /* Navbar */
