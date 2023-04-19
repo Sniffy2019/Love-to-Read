@@ -48,7 +48,7 @@ body {
 }
 .alert-container {
   background-color: #f05f40;
-  color: white;
+  color: black;
 }
 
 .callout-container {
@@ -76,7 +76,7 @@ body {
 
 .content-container {
   position: relative;
-  padding-top: 0px;
+  padding-top: 50px;
   padding-bottom: 30px;
 }
 
@@ -84,7 +84,6 @@ body {
   padding-top: 100px;
   padding-bottom: 70px;
 }
-
 /* Navbar */
 
 .navalert-container {
@@ -280,7 +279,7 @@ background-image: repeating-linear-gradient(darkslategray, sandybrown, black);
 }
 
 #menu a:hover {
-  border-bottom: 1px solid #777777;
+  border-bottom: 1px solid black;
 }
 
 .social-networks {
