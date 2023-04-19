@@ -75,71 +75,81 @@
           <section class="callout jumbotron text-center">
             <h1 class="jumbotron-header">Start your subscription Today!</h1>
             <hr class="block-divider block-divider--orange" />
+            <p class="lead">
+              Sign up today to start receiving your favourite collection of
+              books every month.
+              <s class="d-none d-sm-inline">Save £££'s'</s>
+              <span class="d-inline d-sm-none"><br /></span>
+              <strong><mark>First one is free!</mark></strong>
+            </p>
+            <button
+              class="btn btn-lg btn--cta btn--blue"
+              data-toggle="modal"
+              data-target="#signUpModal"
+            >
+              Sign Up!
+            </button>
+            <p class="text-muted">
+              <small
+                >You must be over 12 to sign up for our service. Please, If
+                under 16 ask the account holders permission first.</small
+              ></p>
           </section>
-          <section class="features">
-            <div class="container features-container ">
-              <div class="row">
-                <div class="col-12 page-header">
-                  <hr
-                    class="block-divider block-divider--short block-divider--white"
-                  />
-                </div>
-              </div>
-
-              <div class="row">
-                <div class="col-12 col-md-6 col-lg-4">
-                  <div class="feature2">
-                    <h3>
-                      <i class="fas fa-sterling-sign d-none d-sm-block"></i> One
-                      year subscription
-                      <span class="badge badge-warning"
-                        >Rewarding Loyalty!</span
-                      >
-                    </h3>
-                    <p>
-                      For every annual subscription, you'll will receive a free
-                      book of your choice. (subject to availabilty and authors
-                      discretion).
-                    </p>
-                  </div>
-                </div>
-                <div class="col-12 col-md-6 col-lg-4">
-                  <div class="feature2">
-                    <h3>
-                      <i class="fa-solid fa-sterling-sign d-none d-sm-block"></i
-                      >Two Year subscription
-                    </h3>
-                    <p>
-                      Get more for your buck when you double the annual
-                      subscription.
-                    </p>
-                    <p>
-                      <button class="btn btn-lg btn-sm btn--blue">
-                        Complete Survey for a chance to win big!
-                      </button>
-                    </p>
-                  </div>
-                </div>
-
-                <div class="col-12 col-md-6 col-lg-4">
-                  <div class="feature2">
-                    <h3>
-                      <i
-                        class="fa-solid fa-sterling-sign d-none d-sm-block"
-                      ></i>
-                      Three year subscription
-                    </h3>
-
-                    <p>Biggest Saver Ever! save ££££'s'</p>
-                  </div>
-                </div>
-              </div>
+        </div>
             </div>
-          </section>
+       <div class="modal" tabindex="-1" role="dialog" id="signUpModal">
+      <div class="modal-dialog" role="document">
+        <div class="modal-content">
+          <div class="modal-header">
+            <h5 class="modal-title">Sign Up To Love to Read</h5>
+            <button
+              type="button"
+              class="close"
+              data-dismiss="modal"
+              aria-label="Close"
+            >
+              <span aria-hidden="true">&times;</span>
+            </button>
+          </div>
+          <div class="modal-body">
+            <form>
+              <div class="form-group">
+                <label for="exampleInputEmail1">Email address</label>
+                <input
+                  type="email"
+                  class="form-control"
+                  id="exampleInputEmail1"
+                  aria-describedby="emailHelp"
+                  placeholder="Enter email"
+                />
+                <small id="emailHelp" class="form-text text-muted"
+                  >We'll never share your email with anyone else.</small
+                >
+              </div>
+              <div class="form-group">
+                <label for="password">Password</label>
+                <input
+                  type="password"
+                  class="form-control"
+                  id="password"
+                  placeholder="Password"
+                >
+              </div>
+              <div class="form-group">
+                <label for="repeatPassword">Repeat Password</label>
+                <input
+                  type="password"
+                  class="form-control"
+                  id="repeatPassword"
+                  placeholder="Repeat Password"
+                >
+              </div>
+              <button type="submit" class="btn btn-success">Submit</button>
+            </form>
+          </div>
         </div>
       </div>
     </div>
-
     <script
       src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
       integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo"
@@ -161,4 +171,5 @@
     ></script>
   </body>
 </html>
+
 
