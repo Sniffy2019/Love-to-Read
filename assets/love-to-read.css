@@ -80,6 +80,12 @@ body {
   padding-bottom: 30px;
 }
 
+.content-container1 {
+  height: 92vh;
+  padding-top: 70px;
+  padding-bottom: 70px;
+}
+
 /* Navbar */
 
 .navalert-container {
