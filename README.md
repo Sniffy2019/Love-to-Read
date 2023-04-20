@@ -19,7 +19,7 @@ The top of the page leads to the subscriptiopn deals and explains the benefits o
 
 The second set of options below the first has the option to go to about.html link or choose a genre of book they may like.
 
-The main picture is the year to date filled with books and has a sign up page if the reader wishes to sign up for more details on buying or subscribing.
+The main picture is the year to date filled with books and has a sign up page if the reader wishes to sign up for more details on buying or subscribing on the see here for details page.
 Scrolling down the page will show some readers reviews.
 
 Keep scrolling down the page and it lets the reader see the benefits of joining Love-to-read, and has a link to the read more html page.
@@ -86,6 +86,15 @@ lighthouse used to check mobile speed
 <img width="529" alt="lighthouse report" src="https://user-images.githubusercontent.com/122370573/230315689-bceef6c9-f840-4b7a-85fe-3bacc5d878e5.png">
 
 main source code taken and modified from the Code institute.
+
+### Testing and ensuring pages work
+
+As we are using various paltforms to run the code. I found using ../index.html the easiest way to link pages back home.
+Otherwise it would not load and try and link to assets pages.
+
+For mobile use the drop down links were used on each page as the menu didn't blend in with the chosen background, the only page with one link is the form.html page, as that directs you back home only for ease of use.
+
+Using Gitpod or codeanywhere the command line was easier to establish commits. As once using the port 8000 sometimes the changes would lag or not update at all.
 
 ### Authors
 
