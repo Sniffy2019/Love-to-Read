@@ -124,7 +124,7 @@ background-image: repeating-linear-gradient(darkslategray, sandybrown, #5C4033);
   color: white;
   font-weight: bold;
   margin-bottom: 30px;
-  color: white;
+  color: aliceblue;
 }
 
 .jumbotron .lead {
@@ -327,7 +327,7 @@ background-image: repeating-linear-gradient(darkslategray, sandybrown, #5C4033);
 }
 
 form {
-  margin-top: 100px;
+  margin-top: 50px;
   color: #fff;
   background-color: rgba(60, 60, 60, 0.6);
   max-width: 400px;
