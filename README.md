@@ -1,5 +1,6 @@
 # Love-to-Read
-<img width="717" alt="love-to-read" src="https://user-images.githubusercontent.com/122370573/228775719-c8313c41-1a25-4660-886a-41ce933424a2.png">
+<img width="713" alt="lobe to read front page" src="https://user-images.githubusercontent.com/122370573/234324852-f7fb7910-593e-42dd-8e88-d3aa993a0665.png">
+
 
 ### Displays web page for book lovers, that want to buy or subscribe to a book club, or just but the books they really want.
 
