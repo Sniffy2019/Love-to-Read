@@ -327,12 +327,12 @@ background-image: repeating-linear-gradient(darkslategray, sandybrown, #5C4033);
 }
 
 form {
-  margin-top: 40px;
+  margin-top: 30px;
   color: #fff;
   background-color: rgba(60, 60, 60, 0.6);
   max-width: 400px;
   position: relative;
-  left: 5%;
+  left: 10%;
   padding: 30px;
 }
 
