@@ -20,6 +20,7 @@
 
 The "index.page" (see image above), entices people who love to read to subscribe or buy books.
 The top of the page leads to the subscriptiopn deals and explains the benefits of long term subscrition. The top of the subscription page has drop down links back to other pages included.
+
 <img width="750" alt="Screenshot 2023-05-03 110530" src="https://user-images.githubusercontent.com/122370573/235889152-7c1b8891-0dc2-4d7f-ae14-2fa064c48b92.png">
 
 The image depicts the subscription page with a sign up button that once pressed opens a form to sign up to Love-to-read.
@@ -33,6 +34,7 @@ The main picture is the year to date filled with books and has a sign up page if
 Scrolling down the page will show some readers reviews.
 
 Keep scrolling down the page and it lets the reader see the benefits of joining Love-to-read, and has a link to the read more html page.
+
 <img width="750" alt="Screenshot 2023-05-03 111846" src="https://user-images.githubusercontent.com/122370573/235890420-a02bf063-4394-455d-b663-202dbda1e945.png">
 
 The Read more page describes the benefits of subscribing, prices and benefits for recommending 
@@ -47,6 +49,7 @@ The about.html page has a sign up page for more  details regarding what they wou
 
 
 There is a link to the survey page at the top of the page that allows the reader to choose various questions about them, and a chance to win a years worth of subscription free for a year.
+
 <img width="750" alt="Screenshot 2023-05-03 112318" src="https://user-images.githubusercontent.com/122370573/235891492-57728fd7-d4b3-4719-8b1d-c255cd5f3c00.png">
 <img width="750" alt="Screenshot 2023-05-03 112342" src="https://user-images.githubusercontent.com/122370573/235891745-4a159cbe-8202-4589-8d91-3c3767b6a8d6.png">
 
@@ -55,7 +58,7 @@ There is a link to the survey page at the top of the page that allows the reader
 ### Links to additional pages are in the assets folder.
 [A link to GitHub] (https://github.com/Sniffy2019/Love-to-Read)
 
-Using Gitpod and terminal $ python3 -m http.server
+Using Gitpod or codeanywhere and using the terminal $ python3 -m http.server
 then using port 8000 will show the web page.
 
 
@@ -84,19 +87,21 @@ BootstrappingYourNextBigIdea-BS4/02-CoreCSSAndTheGridSystem/02-core_css/index.ht
 
 https://cdn.jsdelivr.net/npm/bootstrap@4.1.3/dist/css/bootstrap.min.css
 
-Tests have been run for static only purposes on Replit and Gitpod.
+* Tests have been run for static only purposes on Replit, Gitpod and codeanywhere
 Using Html and CSS only.
-Glitch was used to format the code in Html and CSS.
-W3C was used to eliminate any glaring errors and conflicts of the web pages.
-Lighthouse was used to test mobile response time.
+
+* https://8000-sniffy2019-love-to-read-ak3w9wxnfx.us2.codeanyapp.com/index.html
+* 
+* Glitch was used to format the code in Html and CSS.
+* Checked via glitch for presentation.
+
+* W3C was used to eliminate any glaring errors and conflicts of the web pages.
+* Main index.html and style.css checked via W3C
+
+* Lighthouse was used to test mobile response time.
+* lighthouse used to check mobile speed and responses of the links.
 
 
-
-Checked via glitch for presentation,
-
-Main index.html and style.css checked via W3C
-
-lighthouse used to check mobile speed
 
 
 <img width="529" alt="lighthouse report" src="https://user-images.githubusercontent.com/122370573/230315689-bceef6c9-f840-4b7a-85fe-3bacc5d878e5.png">
