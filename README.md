@@ -26,7 +26,7 @@
 
 * There is a slight advertising pitch on Read-more.html page to recommend friend and other book lovers to encourage word of mouth of the website.
 
-* The survey page (see-here-for-detasils.html) encourages feedback, and lets the site understand the user personal preference and encourages the information by entering a prize draw.
+* The survey page (see-here-for-details.html) encourages feedback, and lets the site understand the user personal preference and encourages the information by entering a prize draw.
 
 
 ### How the pages help the reader navigate the website.
