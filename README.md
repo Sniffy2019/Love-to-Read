@@ -17,6 +17,7 @@
 
 The "index.page" (see image above), entices people who love to read to subscribe or buy books.
 The top of the page leads to the subscriptiopn deals and explains the benefits of long term subscrition. The top of the subscription page has drop down links back to other pages included.
+C:\Users\NatGa\OneDrive\Desktop\Screenshot 2023-05-03 110530.png
 
 
 The second set of options below the first has the option to go to about.html link or choose a genre of book they may like.
