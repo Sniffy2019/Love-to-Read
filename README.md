@@ -1,5 +1,5 @@
 # Love-to-Read
-<img width="713" alt="love to read front page" src="https://user-images.githubusercontent.com/122370573/234324852-f7fb7910-593e-42dd-8e88-d3aa993a0665.png">
+<img width="750" alt="love to read front page" src="https://user-images.githubusercontent.com/122370573/234324852-f7fb7910-593e-42dd-8e88-d3aa993a0665.png">
 
 
 
@@ -34,6 +34,7 @@ Scrolling down the page will show some readers reviews.
 
 Keep scrolling down the page and it lets the reader see the benefits of joining Love-to-read, and has a link to the read more html page.
 <img width="750" alt="Screenshot 2023-05-03 111846" src="https://user-images.githubusercontent.com/122370573/235890420-a02bf063-4394-455d-b663-202dbda1e945.png">
+
 The Read more page describes the benefits of subscribing, prices and benefits for recommending 
 other subcribers.
 
@@ -62,7 +63,7 @@ then using port 8000 will show the web page.
 ## Design of web page, built from the  code institue learning course,  using the following:-
 
 Sources:
-<img width="497" alt="wire frame web site" src="https://user-images.githubusercontent.com/122370573/230308332-797822d6-22ae-4713-b10c-12161ae19676.png">
+<img width="750" alt="wire frame web site" src="https://user-images.githubusercontent.com/122370573/230308332-797822d6-22ae-4713-b10c-12161ae19676.png">
 * wire frame design for front page using Balsamiq Wireframes.
 * Schematic depicitng the front page using the front tab bar for the selection page and drop down menu.
 * Main picture describing the site.
