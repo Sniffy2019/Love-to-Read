@@ -24,7 +24,7 @@ The top of the page leads to the subscriptiopn deals and explains the benefits o
 The image depicts the subscription page with a sign up button that once pressed opens a form to sign up to Love-to-read.
 
 The second set of options below the first has the option to go to about.html link or choose a genre of book they may like.
-<img width="948" alt="Screenshot 2023-05-03 111532" src="https://user-images.githubusercontent.com/122370573/235889832-e0a521e7-fe92-4882-bad3-fea253aa7736.png">
+
 The page lets you sign up and state whether you wish to subscribe or just buy a book.
 Below you have the options to follow Love-toread via social media.
 
@@ -40,8 +40,12 @@ Should the reader choose the about page its another sign up page for the would b
 
 The about.html page has a sign up page for more  details regarding what they would like to sign up for, and also has the social following section on the bottom of the page.
 
-There is a link to the survey page at the top of the page that allows the reader to choose various questions about them, and a chance to win a years worth of subscription free for a year.
+<img width="948" alt="Screenshot 2023-05-03 111532" src="https://user-images.githubusercontent.com/122370573/235889832-e0a521e7-fe92-4882-bad3-fea253aa7736.png">
 
+
+There is a link to the survey page at the top of the page that allows the reader to choose various questions about them, and a chance to win a years worth of subscription free for a year.
+<img width="945" alt="Screenshot 2023-05-03 112318" src="https://user-images.githubusercontent.com/122370573/235891492-57728fd7-d4b3-4719-8b1d-c255cd5f3c00.png">
+<img width="941" alt="Screenshot 2023-05-03 111846" src="https://user-images.githubusercontent.com/122370573/235891548-85e18f5e-fa4f-43fa-97ee-fa945f93b6d3.png">
 
 
 
