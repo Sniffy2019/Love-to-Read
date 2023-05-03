@@ -2,6 +2,7 @@
 <img width="713" alt="love to read front page" src="https://user-images.githubusercontent.com/122370573/234324852-f7fb7910-593e-42dd-8e88-d3aa993a0665.png">
 
 
+
 ### Displays web page for book lovers, that want to buy or subscribe to a book club, or just but the books they really want.
 
 * Sample layout drafted form the code institute "BootstrappingYourNextBigIdea"
@@ -17,7 +18,7 @@
 
 The "index.page" (see image above), entices people who love to read to subscribe or buy books.
 The top of the page leads to the subscriptiopn deals and explains the benefits of long term subscrition. The top of the subscription page has drop down links back to other pages included.
-C:\Users\NatGa\OneDrive\Desktop\Screenshot 2023-05-03 110530.png
+<img width="943" alt="Screenshot 2023-05-03 110530" src="https://user-images.githubusercontent.com/122370573/235889152-7c1b8891-0dc2-4d7f-ae14-2fa064c48b92.png">
 
 
 The second set of options below the first has the option to go to about.html link or choose a genre of book they may like.
