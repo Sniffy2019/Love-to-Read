@@ -86,6 +86,7 @@ BootstrappingYourNextBigIdea-BS4/02-CoreCSSAndTheGridSystem/02-core_css/index.ht
 * live.staticflickr.com
 * use.fontawesome.com
 * Smart Mockups.com
+* images from google images and freestock photos site.
 
 ### Contributing to the flow of the page:-
 
