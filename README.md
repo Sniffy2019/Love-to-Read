@@ -25,6 +25,7 @@ The image depicts the subscription page with a sign up button that once pressed 
 The second set of options below the first has the option to go to about.html link or choose a genre of book they may like.
 <img width="948" alt="Screenshot 2023-05-03 111532" src="https://user-images.githubusercontent.com/122370573/235889832-e0a521e7-fe92-4882-bad3-fea253aa7736.png">
 The page lets you sign up and state whether you wish to subscribe or just buy a book.
+Below you have the options to follow Love-toread via social media.
 
 The main picture is the year to date filled with books and has a sign up page if the reader wishes to sign up for more details on buying or subscribing on the see here for details page.
 Scrolling down the page will show some readers reviews.
