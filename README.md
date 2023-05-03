@@ -2,6 +2,7 @@
 <img width="750" alt="love to read front page" src="https://user-images.githubusercontent.com/122370573/234324852-f7fb7910-593e-42dd-8e88-d3aa993a0665.png">
 
 
+![mockup](https://user-images.githubusercontent.com/122370573/235913802-154a9593-4ce0-45f0-bb39-3b515e310895.jpg)
 
 
 
