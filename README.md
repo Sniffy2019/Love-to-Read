@@ -1,5 +1,5 @@
 # Love-to-Read
-<img width="750" alt="love to read front page" src="https://user-images.githubusercontent.com/122370573/234324852-f7fb7910-593e-42dd-8e88-d3aa993a0665.png">
+
 
 
 ![mockup](https://user-images.githubusercontent.com/122370573/235913802-154a9593-4ce0-45f0-bb39-3b515e310895.jpg)
@@ -18,6 +18,8 @@
 * form.html allows you to complete a survey, depicitng how often you read and favourite Genre etc. linked via survey section on every page.
 
 #### How the pages help the reader navigate the website.
+
+<img width="750" alt="love to read front page" src="https://user-images.githubusercontent.com/122370573/234324852-f7fb7910-593e-42dd-8e88-d3aa993a0665.png">
 
 The "index.page" (see image above), entices people who love to read to subscribe or buy books.
 The top of the page leads to the subscriptiopn deals and explains the benefits of long term subscrition. The top of the subscription page has drop down links back to other pages included.
