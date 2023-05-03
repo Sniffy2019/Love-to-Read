@@ -1,5 +1,5 @@
 # Love-to-Read
-<img width="713" alt="lobe to read front page" src="https://user-images.githubusercontent.com/122370573/234324852-f7fb7910-593e-42dd-8e88-d3aa993a0665.png">
+<img width="713" alt="love to read front page" src="https://user-images.githubusercontent.com/122370573/234324852-f7fb7910-593e-42dd-8e88-d3aa993a0665.png">
 
 
 ### Displays web page for book lovers, that want to buy or subscribe to a book club, or just but the books they really want.
@@ -15,7 +15,7 @@
 
 #### How the pages help the reader navigate the website.
 
-The "index.page" entices people who love to read to subscribe or buy books.
+The "index.page" (see image above), entices people who love to read to subscribe or buy books.
 The top of the page leads to the subscriptiopn deals and explains the benefits of long term subscrition. The top of the subscription page has drop down links back to other pages included.
 
 The second set of options below the first has the option to go to about.html link or choose a genre of book they may like.
