@@ -91,7 +91,7 @@ https://cdn.jsdelivr.net/npm/bootstrap@4.1.3/dist/css/bootstrap.min.css
 Using Html and CSS only.
 
 * https://8000-sniffy2019-love-to-read-ak3w9wxnfx.us2.codeanyapp.com/index.html
-* 
+
 * Glitch was used to format the code in Html and CSS.
 * Checked via glitch for presentation.
 
