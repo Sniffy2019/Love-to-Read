@@ -149,6 +149,9 @@ Otherwise it would not load and try and link to assets pages.
 
 For mobile use the drop down links were used on each page as the menu didn't blend in with the chosen background, the only page with one link is the form.html page, as that directs you back home only for ease of use.
 
+### Version control
+
+Github (https://github.com/Sniffy2019/Love-to-Read)
 Using Gitpod or codeanywhere the command line was easier to establish commits. As once using the port 8000 sometimes the changes would lag or not update at all.
 
 ### Authors
