@@ -69,10 +69,17 @@ There is a link to the survey page at the top of the page that allows the reader
 <img width="750" alt="Screenshot 2023-05-03 112318" src="https://user-images.githubusercontent.com/122370573/235891492-57728fd7-d4b3-4719-8b1d-c255cd5f3c00.png">
 <img width="750" alt="Screenshot 2023-05-03 112342" src="https://user-images.githubusercontent.com/122370573/235891745-4a159cbe-8202-4589-8d91-3c3767b6a8d6.png">
 
-### colours and background images.
+### Colours and background images.
 
 The colours for the main page are a 'vibrant catch the users eye style', with the image of books made into the current year.
+The reviews are left on white background for simplicity, also this makes the images stand out more.
+Underneath the background image of a young girl reading with the 3 columns and read more buttons.
+
 The whole theme of the site has a warm, calm and relaxing tones of images and colours to make the user feel comfortable navigating through the pages.
+
+About.html has an old library background image with the 'lets sign you up form'. The Nav bar and 'follow us' is explained below.
+Read more and the survey share the same background image of an open book set onto  a backdrop of a sunset.
+The colums are set with an opacity % to let the text be seen but not camouflaged with the background image.
 All the images in the assets folder where sourced via free access websites, and converted into jpeg's or png's via Flickr.
 
 The nav bar (especially index.html) and the social elements on the footer of (about.html) pages, have been made to look like a book or wooden rails you might see in a old book store or library.
@@ -80,6 +87,7 @@ The nav bar (especially index.html) and the social elements on the footer of (ab
 
 
 ### Links to additional pages are in the assets folder.
+
 [A link to GitHub] (https://github.com/Sniffy2019/Love-to-Read)
 
 Using Gitpod or codeanywhere and using the terminal $ python3 -m http.server
