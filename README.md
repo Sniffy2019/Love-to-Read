@@ -79,7 +79,7 @@ The whole theme of the site has a warm, calm and relaxing tones of images and co
 
 About.html has an old library background image with the 'lets sign you up form'. The Nav bar and 'follow us' is explained below.
 Read more and the survey share the same background image of an open book set onto  a backdrop of a sunset.
-The colums are set with an opacity % to let the text be seen but not camouflaged with the background image.
+The columns are set with an opacity % to let the text be seen but not camouflaged with the background image.
 All the images in the assets folder where sourced via free access websites, and converted into jpeg's or png's via Flickr.
 
 The nav bar (especially index.html) and the social elements on the footer of (about.html) pages, have been made to look like a book or wooden rails you might see in a old book store or library.
