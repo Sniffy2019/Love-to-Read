@@ -130,7 +130,7 @@ Using Html and CSS only.
 * Checked via glitch for presentation.
 
 * W3C was used to eliminate any glaring errors and conflicts of the web pages.
-* Main index.html and style.css checked via W3C
+* Main index.html, assets/html(s) and style.css checked via W3C
 
 * Lighthouse was used to test mobile response time.
 * lighthouse used to check mobile speed and responses of the links.
@@ -152,7 +152,7 @@ For mobile use the drop down links were used on each page as the menu didn't ble
 ### Glitches/Bugs
 
 The pages and links have been tested, also the buttons and they react well.
-The only issue is with putting the link pages through W3C code checker as it high lights issues of code lines that aren't there.
+
 
 ### Version control
 
