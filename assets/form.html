@@ -3,6 +3,7 @@
 <html lang="en" xmlns="http://www.w3.org/1999/xhtml">
   <head>
     <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" >
     <meta
       name="viewport"
       content="width=device-width, height=device-height, initial-scale=1"
@@ -28,7 +29,7 @@
   </head>
 
   <body class="container-wrapper--black">
-    <section>
+    
       <nav>
         <ul id="menu">
           <li>
@@ -36,7 +37,7 @@
           </li>
         </ul>
       </nav>
-    </section>
+    
 
     <hr>
 
@@ -65,6 +66,7 @@
             name="full_name"
             placeholder="Your name"
             required
+            autocomplete="given-name"
           >
         </div>
         <div>
@@ -75,12 +77,13 @@
             name="email"
             placeholder="Your email"
             required
+            autocomplete="off"
           >
         </div>
 
         <label for="age">Age</label>
         <select id="age" name="age" required>
-          <option value="under-20">Under 20</option>
+          <option value="12-19">12-19</option>
           <option value="20s">20-29</option>
           <option value="30s">30-39</option>
           <option value="40s">40-49</option>
@@ -92,10 +95,10 @@
       <fieldset>
         <legend>Favourite genre</legend>
         <div>
-          <label for="fav-Book">What is your favourite Genre of Book?</label>
-          <input id="fav-book" list="Books" name="fav-Genre" required />
+          <label for="fav-genre">What is your favourite Genre of Book?</label>
+          <input id="fav-genre" list="Genre" name="fav-genre" required>
           <datalist id="Genre">
-            <option value="Science Fiction"></option>
+            <option value="Science-Fiction"></option>
             <option value="Suspense"></option>
             <option value="Action"></option>
             <option value="Historical"></option>
@@ -183,25 +186,25 @@
         <div>
           <input
             type="checkbox"
-            id="Science Fiction-checkbox"
-            name="Science Fiction"
+            id="Science-Fiction-checkbox"
+            name="Science-Fiction"
           >
-          <label for="Science Fiction-checkbox">Science Fiction</label>
+          <label for="Science-Fiction-checkbox">Science-Fiction</label>
         </div>
         <div>
-          <input type="checkbox" id="Suspense-checkbox" name="Suspense" />
+          <input type="checkbox" id="Suspense-checkbox" name="Suspense">
           <label for="Suspense-checkbox">Suspense</label>
         </div>
         <div>
-          <input type="checkbox" id="Action-checkbox" name="Action" />
+          <input type="checkbox" id="Action-checkbox" name="Action">
           <label for="Action-checkbox">Action</label>
         </div>
         <div>
-          <input type="checkbox" id="Historical-checkbox" name="Historical" />
+          <input type="checkbox" id="Historical-checkbox" name="Historical">
           <label for="Historical-checkbox">Historical</label>
         </div>
         <div>
-          <input type="checkbox" id="Romance-checkbox" name="Romance" />
+          <input type="checkbox" id="Romance-checkbox" name="Romance">
           <label for="Romance-checkbox">Romance</label>
         </div>
       </fieldset>
@@ -211,17 +214,19 @@
         <label for="feedback"
           >How can we improve your experience with us?</label
         >
-        <br />
+        <br>
         <textarea id="feedback" rows="6" cols="42" name="feedback"></textarea>
       </fieldset>
 
       <button type="submit">
         <strong>Enter prize draw</strong>
       </button>
-      <input type="reset" value="Reset Form" />
+      <input type="reset" value="Reset Form">
     </form>
-   </section>
   </body>
 </html>
+
+
+
 
 
