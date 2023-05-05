@@ -104,6 +104,7 @@ Sources:
 * Main picture describing the site.
 * Readers reviews depicted with four circles and text.
 * Offers and subscription links to read more and picture at bottom of page.
+* The use of Balsamiq wireframes, was of limited time and could not add other pages to it.
 
 BootstrappingYourNextBigIdea-BS4/02-CoreCSSAndTheGridSystem/02-core_css/index.html
 
