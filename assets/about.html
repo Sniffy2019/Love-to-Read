@@ -1,8 +1,9 @@
+
 <!DOCTYPE html>
 <html lang="en" xmlns="http://www.w3.org/1999/xhtml">
   <head>
     <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge" >
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta
       name="viewport"
       content="width=device-width, height=device-height, initial-scale=1"
@@ -71,6 +72,7 @@
           id="fname"
           name="first_name"
           required
+          autocomplete="given-name"
         >
         <label for="lname">Last Name</label>
         <input
@@ -79,6 +81,7 @@
           id="lname"
           name="last_name"
           required
+          autocomplete="given-name"
         >
         <label for="email">Email Address</label>
         <input
@@ -87,27 +90,34 @@
           id="email"
           name="email_address"
           required
+          autocomplete="email"
         >
-        <br />
+        <br>
         <label for="Purchase-details">Purchase details</label>
         <input
           class="text-input"
           type="text"
-          id="pdetails"
+          id="Purchase-details"
           name="purchase_details"
           required
+          autocomplete="one-time-code"
         >
-        <br />
-        <label for="road">Buy</label>
+        <br>
+        <label for="Buy">Buy</label>
         <input
           type="radio"
-          id="road"
-          name="running_preference"
-          value="road"
+          id="Buy"
+          name="Subscription_preference"
+          value="Buy"
           required
         >
-        <label for="trail">Subscription</label>
-        <input type="radio" id="both" name="running_preference" value="both" />
+        <label for="Subscription">Subscription</label>
+        <input
+          type="radio"
+          id="Subscription"
+          name="Subcription_preference"
+          value="Subscription"
+        >
         <input
           class="join-button btn btn--cta btn--yellow"
           type="submit"
@@ -116,7 +126,7 @@
       </form>
     </section>
     <footer>
-       <h2 class="social-networks">Follow Us</h2>
+      <h2 class="social-networks">Follow Us</h2>
       <ul class="social-networks">
         <li>
           <a href="https://www.facebook.com" target="_blank"
