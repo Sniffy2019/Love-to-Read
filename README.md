@@ -105,9 +105,9 @@ Sources:
 * Readers reviews depicted with four circles and text.
 * Offers and subscription links to read more and picture at bottom of page.
 
- <img width="750" alt="Screenshot 2023-05-05 112146" src="https://user-images.githubusercontent.com/122370573/236433656-5eb92902-3aa1-4e8d-858c-e8cbd35d2df8.png">
+ <img width="550" alt="Screenshot 2023-05-05 112146" src="https://user-images.githubusercontent.com/122370573/236433656-5eb92902-3aa1-4e8d-858c-e8cbd35d2df8.png">
  
-* The rest of the pages were an enlargement of a section of the front page or the design above woith a background image plus a sign up form or survey box added.
+* The rest of the pages were an enlargement of a section of the front page or the design above, with a background image plus a sign up form or survey box added.
 
 BootstrappingYourNextBigIdea-BS4/02-CoreCSSAndTheGridSystem/02-core_css/index.html
 
