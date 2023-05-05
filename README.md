@@ -149,6 +149,11 @@ Otherwise it would not load and try and link to assets pages.
 
 For mobile use the drop down links were used on each page as the menu didn't blend in with the chosen background, the only page with one link is the form.html page, as that directs you back home only for ease of use.
 
+### Glitches/Bugs
+
+The pages and links have been tested, also the buttons and they react well.
+The only issue is with putting the link pages through W3C code checker as it high lights issues of code lines that aren't there.
+
 ### Version control
 
 Github (https://github.com/Sniffy2019/Love-to-Read)
