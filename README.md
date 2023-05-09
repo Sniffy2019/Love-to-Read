@@ -5,7 +5,7 @@
 
 
 
-### Displays web page for book lovers, that want to buy or subscribe to a book club, or just buy the books they want.
+### Displays web page for book lovers, that want to subscribe to a book club, or just buy the books they want.
 
 * Sample layout drafted from the code institute "BootstrappingYourNextBigIdea"
 * Interactive static web page to select to buy or subscribe to books.
