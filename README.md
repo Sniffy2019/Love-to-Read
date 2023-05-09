@@ -80,7 +80,7 @@ The whole theme of the site has a warm, calm, and relaxing tone of images and co
 About.html has an old library background image with the 'Let’s sign you up form'. The Nav bar and 'follow us' is explained below.
 Read more and the survey shares the same background image of an open book set onto a backdrop of a sunset.
 The columns are set with an opacity % to let the text be seen but not camouflaged with the background image.
-All the images in the assets folder were sourced via free access websites and converted into jpegs or png's via Flickr.
+All the images in the assets folder were sourced via https://unsplash.com/s/photos/books and converted into jpegs or png's via Flickr.
 
 The nav bar (especially index.html) and the social elements on the footer of (about.html) pages, have been made to look like a book or wooden rails you might see in an old book store or library.
 
@@ -119,7 +119,7 @@ BootstrappingYourNextBigIdea-BS4/02-CoreCSSAndTheGridSystem/02-core_css/index.ht
 * live.staticflickr.com
 * use.fontawesome.com
 * Smart.Mockups.com
-* images from google images and free stock photos site.
+* https://unsplash.com/s/photos/books.
 
 ### Contributing to the flow of the page:-
 
