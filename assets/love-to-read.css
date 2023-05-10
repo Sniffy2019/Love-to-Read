@@ -227,7 +227,7 @@ background-image: repeating-linear-gradient(darkslategray, sandybrown, #5C4033);
 /* Features */
 
 .feature {
-  background-image: transparent;
+  background-color: transparent;
   text-align: center;
   color: black;
   font: bolder;
@@ -241,7 +241,7 @@ background-image: repeating-linear-gradient(darkslategray, sandybrown, #5C4033);
 }
 
 .feature2 {
-  background-image: transparent;
+  background-color: transparent;
   text-align: center;
   color: ghostwhite;
 }
