@@ -1,5 +1,5 @@
 body {
-  font-family: "Roboto", "Lato", sans-serif;
+  font-family: "Roboto",  sans-serif;
 }
 
 /* Containers */
@@ -264,7 +264,7 @@ background-image: repeating-linear-gradient(darkslategray, sandybrown, #5C4033);
 
 #menu {
   font-size: 140%;
-  font-style: Lato;
+  font-style: "Lato";
   list-style-type: none;
   letter-spacing: 4px;
 }
