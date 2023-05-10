@@ -135,7 +135,9 @@ Using Html and CSS only.
 
 * W3C was used to eliminate any glaring errors and conflicts on the web pages.
 * Main index.html, assets/html(s) and style.css checked via W3C
-* <img width="530" alt="Screenshot 2023-05-05 112146" src="https://github.com/Sniffy2019/Love-to-Read/assets/122370573/95892a73-6d49-4e9a-8b84-ffecb0198469">
+
+*<img width="706" alt="NU HTML Checker" src="https://github.com/Sniffy2019/Love-to-Read/assets/122370573/8de8f42d-aa40-4ffa-a56b-696bd990ac1a">
+
 
 * Lighthouse was used to test mobile response time.
 * Lighthouse used to check mobile speed and responses of the links.
