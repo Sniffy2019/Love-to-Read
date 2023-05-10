@@ -264,7 +264,7 @@ background-image: repeating-linear-gradient(darkslategray, sandybrown, #5C4033);
 
 #menu {
   font-size: 140%;
-  font-style: Baskerville;
+  font-family: Baskerville;
   list-style-type: none;
   letter-spacing: 4px;
 }
