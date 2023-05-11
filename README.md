@@ -140,6 +140,9 @@ Using Html and CSS only.
 
 <img width="500" alt="css checker" src="https://github.com/Sniffy2019/Love-to-Read/assets/122370573/b119b706-ac4e-40dc-a78f-76c59031b80a">
 
+[html assets pages nu html checked.docx](https://github.com/Sniffy2019/Love-to-Read/files/11449086/html.assets.pages.nu.html.checked.docx)
+
+All other pages passed from W3C HTML checker.
 
 * Lighthouse was used to test mobile response time.
 * Lighthouse used to check mobile speed and responses of the links.
