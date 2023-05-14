@@ -69,6 +69,13 @@ There is a link to the survey page at the top of the page that allows the reader
 <img width="750" alt="Screenshot 2023-05-03 112318" src="https://user-images.githubusercontent.com/122370573/235891492-57728fd7-d4b3-4719-8b1d-c255cd5f3c00.png">
 <img width="750" alt="Screenshot 2023-05-03 112342" src="https://user-images.githubusercontent.com/122370573/235891745-4a159cbe-8202-4589-8d91-3c3767b6a8d6.png">
 
+### font styles used
+
+Roboto, sans-serif, Lato;
+Usage from 'Bootstrapping your next idea'.
+
+
+
 ### Colours and background images.
 
 The colours for the main page are a 'vibrant catch the user’s eye’ style, with the image of books made into the current year.
