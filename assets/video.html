@@ -23,7 +23,7 @@
       href="https://fonts.googleapis.com/css?family=Roboto:400,700"
       rel="stylesheet"
     >
-    <link rel="stylesheet" href="love-to-read.css" type="text/css">
+    <link rel="stylesheet" href="video.css" type="text/css">
   </head>
    <body>
     <nav class="navbar navbar-light navbar-expand-sm">
@@ -58,9 +58,21 @@
       </div>
     </nav>
 
-     <video width="320" height="240" autoplay>
-<source src="https://player.vimeo.com/external/495616135.hd.mp4?s=7d1e3318c0feaae46cb2a55747549b3da99ede5f&profile_id=174&oauth2_token_id=57447761">
-</video>
+
+
+
+    <div class="container">
+        <div class="videos">
+            <video class="active" src="https://player.vimeo.com/external/495616135.hd.mp4?s=7d1e3318c0feaae46cb2a55747549b3da99ede5f&profile_id=174&oauth2_token_id=57447761" muted></video>
+            <video src="https://player.vimeo.com/external/194096190.sd.mp4?s=dee63d78883ffd1721877e6e7e51c185ca8f5d85&profile_id=164&oauth2_token_id=57447761" muted></video>
+            <video src="https://v4.cdnpk.net/videvo_files/video/free/video0462/large_watermarked/_import_60fae62500d380.49844685_FPpreview.mp4" muted></video>
+            <video src="https://v4.cdnpk.net/videvo_files/video/free/video0475/large_watermarked/_import_62049fe17d8f23.88825679_FPpreview.mp4" muted></video>
+        </div>
+        <div class="main-video">
+            <video src="https://player.vimeo.com/external/495616135.hd.mp4?s=7d1e3318c0feaae46cb2a55747549b3da99ede5f&profile_id=174&oauth2_token_id=57447761" muted controls autoplay></video>
+        </div>
+    </div>
+    
  <script
       src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
       integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo"
