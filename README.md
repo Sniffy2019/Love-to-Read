@@ -28,6 +28,8 @@
 
 * The survey page (see-here-for-details.html) encourages feedback, lets the site understand the user’s personal preference, and encourages the information by entering a prize draw.
 
+* There is on the see here for details page a video link of people reading in various scenarios.
+
 
 ### How the pages help the reader navigate the website.
 
@@ -89,7 +91,7 @@ Read more and the survey shares the same background image of an open book set on
 The columns are set with an opacity % to let the text be seen but not camouflaged with the background image.
 All the images in the assets folder were sourced via https://unsplash.com/s/photos/books and converted into jpegs or png's via Flickr.
 
-The nav bar (especially index.html) and the social elements on the footer of (about.html) pages, have been made to look like a book or wooden rails you might see in an old book store or library.
+The nav bar (especially index.html) and the social elements on the footer of (about.html) pages, have been made to look like a book or wooden rails you might see in an old bookstore or library.
 
 
 
@@ -177,6 +179,10 @@ The pages and links have been tested, and the buttons react well.
 
 GitHub (https://github.com/Sniffy2019/Love-to-Read)
 Using Gitpod or code anywhere the command line was easier to establish commits. Once using the port 8000 sometimes the changes would lag or not update at all.
+
+### Media
+
+
 
 ### Authors
 
