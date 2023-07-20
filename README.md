@@ -183,6 +183,7 @@ Using Gitpod or code anywhere the command line was easier to establish commits. 
 ### Media
 
 Vimeo.com for free videos of people reading.
+[video link](https://player.vimeo.com/external/495616135.hd.mp4?s=7d1e3318c0feaae46cb2a55747549b3da99ede5f&profile_id=174&oauth2_token_id=57447761)
 
 ### Authors
 
