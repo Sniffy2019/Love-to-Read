@@ -75,6 +75,7 @@ body{
 }
 
 .container .videos video:hover,
+
 .container .videos .active{
     transform: scale(1.06);
     border: 3px solid blue;
@@ -90,4 +91,4 @@ body{
     height: 100%;
     object-fit: cover;
     border: 3px solid blue;
-}#
+}
